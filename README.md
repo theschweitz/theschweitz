@@ -1,3 +1,7 @@
+## Hi, I'm theschweitz 👋
+
+I'm the Ticket Lead for [Devcon](https://devcon.org) at the Ethereum Foundation, where I manage all ticket and registration logistics. I've been with the EF since 2019.
+
 ## Open source contributions
 
 🔒 **Signal iOS – privacy fix for archived messages**
