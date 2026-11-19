@@ -1,6 +1,6 @@
-## Hi, I'm theschweitz 👋
+## Hi, adam here 👋
 
-I'm the Ticket Lead for [Devcon](https://devcon.org) at the Ethereum Foundation, where I manage all ticket and registration logistics. I've been with the EF since 2019.
+I'm the Ticket Lead for [Devcon](https://devcon.org) at the Ethereum Foundation, where I manage all ticket and registration logistics. Been with the EF since 2019.
 
 ## Open source contributions
 
